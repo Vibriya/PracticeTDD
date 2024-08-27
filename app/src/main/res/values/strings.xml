@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PracticeTDD</string>
+    <string name="parse_float_error">Error occurred for trying parse %s to Float</string>
 </resources>
